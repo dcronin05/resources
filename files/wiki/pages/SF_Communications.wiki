@@ -1,0 +1,199 @@
+[[Category:SFG ALL]]
+====(FOUO) Overview====
+The SF communications system consists of base stations within [[SSCC]], [[ECP]], [[BDOC]], and [[Alternate BDOC]] (Bldg #20452) as well as portable radios, vehicle radios, underground intercom system, landlines and manual signal techniques. The SSCC is the command and control center for all security activities. All personnel assigned SF duties are required to become knowledgeable and comply with the contents of this chapter.
+====(FOUO) Procedures====
+The primary means of communication are two-way radios. Landlines and intercom are secondary means of communication. Manual signal techniques will be used as alternate means of communication when necessary or possible. The following procedures will be used when operating a SF radio: 
+
+Obscene or unprofessional language will not be tolerated. Use concise and professional speech. Use proper SF response and brevity codes IAW Attachment 2 or Job Knowledge book. Prior to transmitting to another post and/or unit, request "Direct" communications from [[SSCC]] unless otherwise directed by [[SSCC]] during actual/exercise contingencies. '''(DCNI)''' 377 SFS personnel dispatched to assist the [[KUMMSC]] security forces will switch to channel "8" and advise [[SSCC]] of their status and intention to fall under [[SSCC]] operational control. Before departing one net to begin transmitting on another, users are required to obtain permission from the respective control center (either [[SSCC]] or [[BDOC]]). '''(FOUO)''' The appropriate control center will initiate a passive [[duress]] on a post or patrol failing to answer the radio after three (3) attempts. The duress will be announced using the term "Code 15", followed by the call sign of the post or patrol under [[duress]]. This is only a passive [[duress]], but should be treated with the same degree of importance as an active [[duress]]. '''(FOUO)''' No one will transmit using a two-way radio or any electronic transmitting device such as a cell phone, within 10 feet of a [[Protection Level 1|Protection Level 1 (PL1)]] resource. No one will transmit using a vehicle mounted radio within 25 feet of a PL1 resource. If a transmission within unauthorized distances occurs, report the occurrence to the 377 ABW Safety (SEW) as soon as possible. '''(FOUO)''' Unless approved by S3 office, mobile phones are not authorized on post and will not be used for the transmission of sensitive information during security forces responses.
+====Radio Channels====
+There are 10 different radio channels associated with the SF communications system.
+{| class="wikitable"
+|-
+|Channel #1
+|LE-1
+|Primary Police Services
+|-
+|Channel #2
+|LE-2
+|Secondary for Police Services
+|-
+|Channel #3
+|SP-1
+|N/A
+|-
+|Channel #4
+|SP-2
+|N/A
+|-
+|Channel #5
+|MUNS
+|MUNS Operations
+|-
+|Channel #6
+|R/D-1
+|Repeater Down, Line of Sight only, no encryption
+|-
+|Channel #7
+|R/D-2
+|Repeater Down, Line of Sight only, no encryption
+|-
+|Channel #8
+|SF-1
+|Primary for Security
+|-
+|Channel #9
+|SF-2
+|Secondary for Security/Alternate SAAM Ops
+|-
+|Channel #10
+|PAD OPS
+|PNAF/SAAM Operations
+|-
+|Channel #11
+|SFG
+|Group Talk
+|}
+
+====(FOUO) Land Mobile Radio (LMR) Encryption Capability====
+The LMR system is capable of encrypted transmission. Each two-way portable radio is equipped with encryption/decryption modules. The LMR system is not authorized for transmission of classified material/information. '''(FOUO)''' During commercial power loss, all base stations lose encryption capability. In an event of such a power outage, all base stations must be re-keyed by an authorized representative from SSPTS/S4A. The order of precedence for re-keying is base stations, on-duty patrols/posts radios in order of post priority, standby radios in the armory and leadership/staff radios. '''Telephones.''' Telephones/landlines are considered secondary means of communications if they are available. '''Intercoms.''' Located throughout [[KUMMSC]] and the topside gate area, these intercoms are used to contact the responsible control center from a particular door, gate or area. From the workstation, the operator can call any intercom within the facility. The distributed intercoms operate by pressing a button on the intercom box. The individual intercom is programmed to ring at the workstation. Do not discuss classified information over or near an intercom station.
+====(FOUO) Duress and Authentication Procedures====
+[[FCC]] and/or [[FC|FC's]] will ensure their personnel are knowledgeable and trained on the purpose and use of current duress words, emergency entry codes and authentication procedures. A duress word is used during normal conversation to indicate duress. SFS/Plans and Programs (SFS/S5) is responsible for developing and distributing the primary, alternate and exercise duress words. All SF personnel must be knowledgeable of the current duress words. '''(FOUO)''' The duress words are valid for six (6) months from date of activation. Actual or suspected compromise of the primary duress word will activate the alternate duress word as the new primary. SFS/S5 will establish new duress words (primary and alternate) the next duty day and notify all required agencies and personnel of the new words. Duress words are maintained as "For Official Use Only" (FOUO). '''(FOUO)''' 377 SFS/S5 should also develop an exercise duress word for training situations. The exercvise duress word will be changed when the primary and alternate duress words are changed. '''Note''': [[PNAF]] specific duress words will be developed by Convoy Commander prior to each mission; see [http://{{SERVERNAME}}/resources/files/wiki/regulations/(DCNI)%20WSSS%20SOP%20Vol%203%20AFGSC.pdf WSSS SOP 31-101 Vol 3, Prime Nuclear Airlift Force/Convoy Security.]
+====Authentication Codes====
+SF personnel will utilize the Security Forces authentication code to initiate and terminate all actual or exercise incidents or otherwise determine if a post is under duress. '''(FOUO)''' Personnel will be given two (2) attempts to properly authenticate. '''(FOUO)''' After the second misauthentication, the [[SSCC]] or [[BDOC]] as appropriate will follow all QRC's and initiate duress procedures on the post/patrol. [[SSCC]] or [[BDOC]] will dispatch additional response forces to the post/patrol's location to determine the cause for misauthentication and verify the security status of personnel involved. '''(FUO)''' If the location of the post/patrol is not known, [[SSCC]] or [[BDOC]] as appropriate will direct all posts/patrols to initiate sweeps of their areas to find and ascertain the status of the missing post/patrol.
+====Emergency Response Codes====
+377 SFS/S5 will develop and distribute the emergency response code to all affected agencies/personnel. SF and emergency response agencies (fire department, explosive ordnance disposal and medical) will use an emergency response code (similar to the sign/countersign system) to expedite emergency entry into restricted areas. An SF member will pas one (1) portion of the sign/countersign to each emergency response vehicle; in turn the emergency responding vehicles will pass the remainder of the code for authorized emergency entry. For example: five (5) is the ERC for the day; the SF member controlling entry would pass the ERC by extending three (3) fingers on one (1) hand and the agency requesting emergency entry would respond by extending two (2) fingers on one (1) hand (completing a total of five (5)). '''Note:''' Do not use half of the emergency response code if the number is an even number. This prevents someone mirroring your actions to gain entry. Individuals utilizing the emergency response code will be given only one (1) chance to authenticate. If an incorrect response to the emergency response code is given, the emergency reponse vehicle(s) and personnel will be challenged. The driver who passed the wrong response code will be separated from the vehicle to ascertain their identity and to determine if a duress situation exists. If no duress is indicated, their identity will be verified by contacting the appropriate agency or responsible control center. If all is in order, the vehicle and personnel will be allowed to proceed. If a duress situation is indicated, notify [[SSCC]] and take appropriate actions. '''(FOUO)''' A separate [[Alert Response Code|Alert Response Code (ARC)]] will be used for all [[REFLEX DELTA]] missions. It is used in the same manner as the ERC described in para 2.7 above. Refer to REFLEX DELTA Plan, July 2013 for more information.
+<ref name="one">377 Weapons System Security Squadron. (2016). [http://{{SERVERNAME}}/resources/files/wiki/regulations/(DCNI)%20WSSS%20SOP%20Vol%201%20AFGSC.pdf Wsss operations] (WSSS SOP 31-101, Volume 1, para 2.1-2.7.2). Albuquerque, NM: Kirtland AFB</ref>
+====Response Codes====
+'''(FOUO)''' The codes in the following table will be used by [[SSCC]] and responding patrols during situations where brevity and discreet information is sent/received to and from responding patrols and dispatchers:
+{| class="wikitable"
+|+SECURITY FORCE RESPONSE AND BREVITY CODES<ref name="two">377 Weapons System Security Squadron. (2016). [http://{{SERVERNAME}}/resources/files/wiki/regulations/(DCNI)%20WSSS%20SOP%20Vol%201%20AFGSC.pdf Wsss operations] (WSSS SOP 31-101, Volume 1, attach. 2). Albuquerque, NM: Kirtland AFB</ref>
+|Code 1
+|Routine Response
+|-
+|Code 2
+|Urgent Response
+|-
+|Code 3
+|Emergency Response
+|-
+|Code 4
+|Wants and Warrants
+|-
+|Code 5
+|Traffic Stop
+|-
+|Code 6
+|Latrine Break
+|-
+|Code 7
+|Meal Break
+|-
+|Code 8
+|Suspect in Custody
+|-
+|Code 8A
+|Suspect of Opposite Sex in Custody
+|-
+|Code 9
+|Change Frequency
+|-
+|Code 10
+|All in Order (not to be used in normal security status check)
+|-
+|Code 11
+|Domestic Disturbance
+|-
+|Code 12
+|Traffic Accident
+|-
+|Code 13
+|Officer Needs Immediate Assistance; Emergency
+|-
+|Code 14
+|Unannounced Alarm Activation
+|-
+|Code 15
+|Duress Indication (applicable post or location)
+|-
+|Code 16
+|Explosive Device
+|}
+====Land Mobile Radio (LMR) Systems/Procedures====
+The LMR system is the primary means of communication used to control SF operations. Telephone System, direct lines and dialup telephones are the backup means of communication for all posts and patrols. All frequencies are subject to monitoring by the Federal Communications Commission (FCC). Frequencies will be used as follows:
+:Channel 1 - Primary SFS Frequency.
+:Channel 2 - SFS Alternate Frequency.
+:Channel 8 - WSSS/SSCC Primary Frequency.
+:Channel 9 - WSSS/SSCC Alternate Frequency.
+SFS operations will utilize the Primary channel. Channel changes will be immediately directed upon learning of a compromised radio, duress situation or as directed by the Flight Chief or higher authority. The [[BDOC]]Controller will use pro-words to direct all available forces to change frequencies by stating, "Code 9" and identifying the new channel to be used. For example, "Kirtland to all posts and patrols, Code 9-2 at this time." After the switch has been announced, the [[BDOC]] Controller will conduct a communications and security status check with all posts and patrols on the alternate frequency unless there is an active incident (i.e. duress). Police patrols will remain within their sector when utilizing the alternate frequency unless dispatched. Patrols will contact the [[BDOC]] Controller as needed until all situations have been terminated or the threat has been neutralized. '''Radio Discipline'''. Personnel will utilize brevity/response codes to keep radio transmissions short. Personnel will not use any profanity over the net. [[BDOC]] has primary control over the net. Any patrol that needs to communicate with another patrol or post will request permission to "Go Direct" from [[BDOC]], unless it is an emergency transmission.
+'''Telephone Systems.'''
+Commercial and tactical telephone systems augment the LMR. Fixed SF posts are connected to [[BDOC]] by dial or direct telephone lines and serve as the secondary means of communication. '''Note:''' [[KCP]] Guard does not have the capability. However, the [[KCP]] direct line can be patched to [[BDOC]] when needed.
+====Duress Procedures====
+Duress procedures can be initiated actively or passively. Active duress examples include: engaging the duress button, pedal or utilizing the current duress word in normal conversation. Passive duress examples include: failing to follow standard operating procedures and misauthentication/authenticating incorrectly. '''Duress on BDOC Controller.''' If [[BDOC]] Controller fails to respond to either radio or telphone communications, the Flight Chief or senior patrol will switch over to the WSSS primary frequency and have [[Flight Chief]] or senior patrol will switch over to the WSSS primary frequency and have [[SSCC]] take control of SFS Primary and Alternate frequencies until the status of [[BDOC]] is ascertained. '''Duress on Posts/Patrols''' Initiate a Security Incident report if the situation directly affects Protection Level (PL) resources. Increase vigilance in all areas of responsibility, particularly in and around PL resources. The [[BDOC]] Controller could receive a direct or indirect duress on any post or patrol. Once a duress situation occurs, ensure all other posts and patrols are notified to Code 9 to the alternate frequency. Once the change is accomplished, conduct communications and security status checks. Have patrols initiate sector checks for the vehicle or person in the last known location or in the direction of travel. Posts and patrols will attempt to challenge personnel to neutralize the situation in the best means possible. '''Radio Duress'''. Radio duress occurs when any post or patrol pushes the duress button on their radio and sends a duress signal to [[BDOC]]. If the subject is near you, talk to the subject in a way that advises [[BDOC]] and responding patrols of your location. Attempt to discuss/provide as much information regarding the weapon(s) the subject has as well as basic subject information. Each radio will be given a transmit number that will match the radio accountability number. (if you have radio 22, when you push the duress button the number 22 will show up on the [[BDOC]] radio console). If any post or patrol has a hot mic, the [[BDOC]] will be able to determine what post/patrol the radio belongs to.
+<ref name="three">377 Security Forces Squadron. (2017). [http://{{SERVERNAME}}/resources/files/wiki/regulations/SFS%20OI_31-118.pdf Law enforcement standards and procedures] (377 SFS OI 31-118, para. 6.1-6.5.3.2.2). Albuquerque, NM: Kirtland AFB</ref>
+====Accidental Duress====
+All radio duress situations will be treated as a real duress until the [[Flight Chief]] determines if the situation is secure/resolved. The [[Flight Chief]] will attempt to determine how the duress button was pushed and brief the person(s) involved to ensure it doesn't happen again. At '''NO''' time will any post or patrol push the duress button of someone elses radio.
+<ref name="four">377 Security Forces Squadron. (2017). [http://{{SERVERNAME}}/resources/files/wiki/regulations/SFS%20OI_31-118.pdf Law enforcement standards and procedures] (377 SFS OI 31-118, para. 6.5.7-6.5.7.3). Albuquerque, NM: Kirtland AFB</ref>
+====SF Authentication====
+Authentication is used by SF to verify security status and terminate exercises and incidents. To authenticate, the SF member passes the challenged member a number, the challenged SF member responds with the corresponding phonetic alphabet from their last name (e.g., if you are passed the number 2 by the [[BDOC]] Controller and your last name is Jones, you would respond with "Oscar" since the letter "O" is the second number in your last name). If the individual authenticates incorrectly, the individual/office requesting the authentication will declare a duress and dispatch appropriate forces to ascertain the individual's status.
+====Security Reporting and Alerting System====
+When a security response occurs, personnel immediately contact the [[BDOC]] Controller and [[Flight Chief]]. Upon initiation of a [[Security Incident]], the [[BDOC]] Controller will immediately contact the [[KCP]] or higher headquarters with a brief description (in [[SALUTE]] format) of the incident, and PL of the resource involved.
+====FPCON Implementation====
+When any situation arises that may warrant implementing a particular [[FPCON]], make the appropriate notifications and implement the declared [[FPCON]] checklist as directed. A higher [[FPCON]] checklist takes precedence over the lower [[FPCON]] checklists; however, lower checklists are still in effect, and all actions will be completed as soon as possible. All actions will be logged in the blotter (either as exercise or actual). The [[BDOC]] Controller will notify the required personnel of the current [[FPCON]] IAW the established notification matrix.
+<ref name="five">377 Security Forces Squadron. (2017). [http://{{SERVERNAME}}/resources/files/wiki/regulations/SFS%20OI_31-118.pdf Law enforcement standards and procedures] (377 SFS OI 31-118, para. 9.4-9.6). Albuquerque, NM: Kirtland AFB</ref>
+====SECURITY FORCES SQUADRON ADDITIONAL RESPONSE CODES====
+'''SF''' utilize response codes to rapidly and efficiently communicate status between BDOC and SF personnel. Below is a list of response codes routinely used by SF. Use the descriptive term when communicating with non-SF agencies. Federal Law prohibits the use of codes when communicating with other agencies (i.e. Fire Dept, APD).
+<ref name="seven">377 Security Forces Squadron. (2017). [http://{{SERVERNAME}}/resources/files/wiki/regulations/SFS%20OI_31-118.pdf Law enforcement standards and procedures] (377 SFS OI 31-118, attach. 2). Albuquerque, NM: Kirtland AFB</ref>
+{| class="wikitable"
+|Code 5
+|Traffic Stop
+|-
+|Code 6
+|Latrine Break
+|-
+|Code 7
+|Meal Break
+|-
+|Code 8
+|Suspect in Custody
+|-
+|Code 8A
+|Suspect of Opposite Gender in Custody
+|-
+|Code 9
+|Change Radio Frequency
+|-
+|Code 10
+|All in Order
+|-
+|Code 11
+|Domestic Disturbance
+|-
+|Code 12
+|Traffic Accident
+|-
+|Code 13
+|Officer needs immediate assistance; emergency
+|-
+|Code 14
+|Unannounced Alarm Activation
+|-
+|Code 15
+|Duress Indication
+|-
+|Code 16
+|Bomb Threat
+|-
+|Code 16A
+|Explosive Device Located
+|-
+|Code 17
+|Suspicious Package
+|-
+|Code 27
+|Driver's License Check
+|-
+|Code 28
+|License Plate Check
+|}
+
+<references />

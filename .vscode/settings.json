@@ -1,0 +1,43 @@
+{
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": true,
+    "python.pythonPath": "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\Python36_64\\python.exe",
+    "cSpell.language": "en,en-US",
+    "cSpell.enabledLanguageIds": [
+        "asciidoc",
+        "c",
+        "cpp",
+        "csharp",
+        "css",
+        "go",
+        "handlebars",
+        "html",
+        "jade",
+        "javascript",
+        "javascriptreact",
+        "json",
+        "latex",
+        "less",
+        "markdown",
+        "mediawiki",
+        "php",
+        "plaintext",
+        "pub",
+        "python",
+        "restructuredtext",
+        "rust",
+        "scss",
+        "text",
+        "typescript",
+        "typescriptreact",
+        "yml"
+    ],
+    "cSpell.words": [
+        "KUMMSC"
+    ],
+    "editor.quickSuggestions": {
+        "other": true,
+        "comments": true,
+        "strings": true
+    }
+}

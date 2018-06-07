@@ -1,0 +1,1 @@
+Sir, **TSgt Cronin** reports **Guardian 2** is all secure and ready for inspection. I'm posted as the *

@@ -1,0 +1,175 @@
+Keyboard Shortcut
+Function
+F1
+Help
+F5
+Refreshes current web page
+F7
+Toggle Caret browsing on or off
+F12
+Open Developer Tools
+ALT + F4
+Close current active browser window with all its tabs
+ALT + D
+Go to Address Omnibar
+ALT + J
+Feedback & reporting
+ALT + Spacebar
+Open system menu
+ALT + Spacebar + C
+Close Edge
+ALT + Spacebar + M
+Move window using arrow keys
+ALT + Spacebar + N
+Minimize Edge window
+ALT + Spacebar + R
+Restore Edge window
+ALT + Spacebar + S
+Resize Edge window using arrow keys
+ALT + Spacebar + X
+Maximize Edge window
+ALT + Left arrow
+Go to previous page that was opened in tab
+ALT + Right arrow
+Go to next page that was opened in tab
+ALT + X
+Open Settings
+CTRL + +
+Zoom in (+ 10%)
+CTRL + –
+Zoom out (- 10%)
+CTRL + F4
+Close current tab
+CTRL + 0
+Zoom to 100% (default)
+CTRL + 1
+Switch to tab 1
+CTRL + 2
+Switch to tab 2 if open
+CTRL + 3
+Switch to tab 3 if open
+CTRL + 4
+Switch to tab 4 if open
+CTRL + 5
+Switch to tab 5 if open
+CTRL + 6
+Switch to tab 6 if open
+CTRL + 7
+Switch to tab 7 if open
+CTRL + 8
+Switch to tab 8 if open
+CTRL + 9
+Switch to last tab
+CTRL + A
+Select all
+CTRL + D
+Add site to favorites
+CTRL + E
+Open a search query in the Address Bar
+CTRL + F
+Open “Find on page”
+CTRL + G
+View Reading List
+CTRL + H
+View browsing history
+CTRL + I
+View Favorites
+CTRL + J
+View Downloads
+CTRL + K
+Duplicate tab
+CTRL + L
+Go to Address Omnibar
+CTRL + N
+Open new Edge window
+CTRL + P
+Print
+CTRL + R
+Refreshes current page; similar to F5
+CTRL + T
+Open new tab
+CTRL + W
+Close current tab
+CTRL + click on link
+Open URL hyperlink in new tab
+CTRL + Tab
+Switch forward between tabs
+CTRL + Shift + Tab
+Switch back between tabs
+CTRL + Shift + B
+Toggle Favorites bar on or off
+CTRL + Shift + K
+Open new tab of current tab
+CTRL + Shift + L
+Search using copied text
+CTRL + Shift + P
+Open new InPrivate browsing window
+CTRL + Shift + R
+Toggle Reading view on or off
+CTRL + Shift + T
+Reopen the last tab you closed
+Left arrow
+Scroll left on current webpage
+Right arrow
+Scroll right on current webpage
+Up arrow
+Scroll up on current webpage
+Down arrow
+Scroll down on current webpage
+Backspace
+Go to previous page that was opened in tab
+End
+Move to bottom of page
+Home
+Move to top of page
+Tab
+Move forward through the elements on webpage
+SHIFT + Tab
+Move backward through the elements on webpage
+Home
+Navigate towards top of page 
+Home
+Navigate towards end of page 
+ALT + Home
+Open Home
+If you’re a developer using Developer Tools (F12 hotkey), the following keyboard shortcuts are also available:
+Keyboard Shortcut
+Function
+CTRL + B
+Select element (on DOM Explorer tab)
+CTRL + K
+Color picker (on DOM Explorer tab)
+CTRL + J
+Debug just my code (on Debugger tab)
+CTRL + E
+Start or stop profiling to begin a performance session (on Performance, Network, Memory tabs)
+CTRL + S
+Export as HAR (on Network tab)
+CTRL + O
+Import profiling session (on Performance, Memory tabs)
+CTRL + S
+Export profiling session (on Performance, Memory tabs)
+CTRL + L
+Clear errors, warnings, information (on Performance tab)
+F5 / F8
+Continue (on Debugger tab)
+Hold F5 / F8
+Fast Continue (on Debugger tab)
+F11
+Step into (on Debugger tab)
+F12
+Step over (on Debugger tab)
+SHIFT + F11
+Step out (on Debugger tab)
+CTRL + SHIFT+ F5
+Continue and refresh (on Debugger tab)
+CTRL + SHIFT + I
+DOM element highlighting (on DOM Explorer tab) 
+CTRL + SHIFT + W
+Break on new worker (on Debugger tab)
+CTRL + SHIFT + E
+Change exception behavior (on Debugger tab)
+CTRL + SHIFT + T
+Take heap snapshot (On Memory tab)
+CTRL + SHIFT + L
+Reset Emulation settings (On Emulation tab) 

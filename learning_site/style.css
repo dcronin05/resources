@@ -1,0 +1,40 @@
+body {
+    margin: auto;
+    background-color: black;
+}
+
+h1 {
+    /* border: 8px solid #58588a; */
+    /* width: auto; */
+    /* height: 300px; */
+    margin-top:100px;
+    /* display: inline; */
+    /* padding-top: 1px; */
+    /* padding-left: 5px; */
+    /* padding-right: 5px; */
+    font-family: "Helvetica", sans-serif;
+    /* float: left; */
+    /* background-color: white; */
+}
+
+div {
+    margin-left:0px;
+}
+div.menu:hover {
+    background-color:#204b84;
+    color: turquoise;
+}
+
+.betaStyle {
+    color: black;
+    background-color: #673AB7;
+    border: #0c7edc solid;
+    display: inline;
+}
+
+.menu {
+    margin-left: auto;
+    background-color: #204b84;
+    color: #b8a6d8;
+    display: inline;
+}

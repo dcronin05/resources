@@ -1,0 +1,404 @@
+﻿1.       How often will heavy ammunition (M249/M240) be inspected?
+Ammunition for heavy weapons will be inspected monthly.
+2.       Which personnel are authorized to conduct weapons inspections?
+A Flight Supervisor (SrA and above who has completed ALS)
+3.       With the exception of the AF Form 53, where will weapons inspections be logged and where can you find it?
+These checks will be annotated in the “Weapons Inspection Binder” located in the FC office.
+4.       True/False: If a weapon is found to have been potentially sabotaged, a 100% inspection will be conducted on all issued weapons and ammunition.
+True
+5.       While conducting 100% ammunition inspection on M249/M240, who must be present?
+SSPT/Armory member and SF Supervisor.
+6.       What must ammunition inspection consist of, at a minimum?
+Breaking seals of ammo bags, counting ammo in each bag, ensuring operation of each round, 4 to 1 ball to tracer ratio, no signs of sabotage.
+7.       How many Flight Level Exercises must be conducted per shift?
+One. If this cannot be accomplished, at least one RF and final denial ex. And one IBF ex. per cycle.
+8.       True/False: Area Supervisors will conduct daily proficiency exercises for ESS operators at local, remote, and redundant locations.
+True
+9.       What are ESRT/ISRT response times?
+ESRT – 5 minutes ISRT – 3 minutes
+10.    Who may terminate Security Incidents/Covered Wagons?
+Security Incidents – FC/FCC     Covered Wagons – ABW/CC
+11.    Who must meet RD to authenticate crew orders as an EAL and oversee all appropriate security measures?
+FC/FCC
+12.    Who will assume on scene commander for an SGT when resource is within KUMMSC?
+On duty FC/FCC
+13.    Who will assume on scene commander for an SGT when resource is topside?
+DoE 
+14.    What is the definition of a Security Incident?
+A Security Incident is an unclassified message relayed by restricted area owner/user personnel or SF to SSCC, BDOC or KCP of an unusual incident possibly hostile, affecting PL 1, 2, or 3 resources.
+15.    What is the definition of a Covered Wagon?
+A Covered Wagon report is an unclassified up-channel telephone report sent up to SSCC, BDOC or KCP of an unusual incident probably or actually hostile, affecting PL 1, 2, or 3 resources has occurred at an installation or dispersed site.
+16.    In the event that the ESRT must escort an unauthorized individual of the FL, what must be conducted upon returning to AOR?
+100% Purge
+17.    True/False: FC/FCC or higher authority may REQUEST termination of the Covered Wagon through SSCC.
+True, SSCC will then request through KCP the Installation Commander, or designee, for termination.
+18.    What are all the Rally Points associated with KUMMSC?
+•         Alpha – Archery Range
+•         Bravo – Pad 5
+•         Charlie – Confinement Building
+19.    Who will SSCC relay FL plots to?
+BDOC
+20.    When will duress checks be conducted?
+As soon as possible after conducting changeover; however, they will be secondary to issue/turn-in.
+21.    While conducting Duress Checks, how long, at minimum, will BDOC wait to re-enable all consoles?
+5 seconds
+22.    How often will ISRT conduct checks of blast doors B7/B14 and the MUNS armory?
+Not to exceed every 4 hours.
+23.    What form are Booth Checks logged onto?
+AF Form 53
+24.    What is an AF Form 340?
+Sensor Alarm Date Sheet
+25.    What are the manning requirements for the KUMMSC ECP?
+Must have 2 certified Entry Controllers.
+26.    If items cannot be identified through the x-ray, what must be accomplished?
+The owner, and EC will search through said item.
+27.    What are ISRT/ESRT response times?
+ISRT – 3 minutes. ESRT – 5 minutes.
+28.    When is IVA accomplished when responding to an exclusion area alarm/incident?
+IVA is obtained via CCTV and underground ISRT is in place at low side of the appropriate blast door.
+29.    What are the radio channels associated with the SF communications system?
+•         Channel #1: LE-1 Primary Police Services
+•         Channel #2: LE-2 Secondary for Police Services
+•         Channel #3: SP-1 N/A
+•         Channel #4: SP-2 N/A
+•         Channel #5: MUNS MUNS Operations
+•         Channel #6: R/D-1 Repeater Down, Line of Sight only, no encryption
+•         Channel #7: R/D-2 Repeater Down, Line of Sight only, no encryption
+•         Channel #8: SF-1 Primary for Security
+•         Channel #9: SF-2 Secondary for Security/Alternate SAAM Ops
+•         Channel #10: PAD OPS PNAF/SAAM Operations
+•         Channel #11: SFG Group Talk
+30.    True/False: The Land Mobile Radio (LMR) System is authorized for transmission of classified material/information.
+False
+31.    What do all base stations lose in the event of an unplanned power loss?
+Encryption Capability
+32.    Who is responsible for developing duress words and how often are they changed?
+Plans and Programs, every six months, or when compromised.
+33.    How many attempts will be given for SF Authentication?
+2
+34.    How many attempts will be given for the ERC and what will happen when individuals exceed that amount?
+Individuals will be given one attempt, then they will be challenged from the vehicle and the driver will be separated and have their status ascertained via SSCC and FD.
+35.    What will be used to allow expedient entry for Alert Crew Personnel?
+Alert Response Code (ARC)
+36.    What are the 7 controlled areas associated with KUMMSC?
+•         Enrollment Center
+•         F1
+•         C2B
+•         Utility Building
+•         Security Forces Armory
+•         KUMMSC Topside
+•         MUNS Armory
+37.    Who controls access to the MUNS Armory?
+MUNS Control
+38.    What actions will be taken prior to allowing access to the Enrollment Center?
+One Security Forces individual, as well as a MUNS individual. They will be verified with EC EAL. Once individuals have been verified, SCS will authenticate with both individuals before granting access.
+39.    When alarms are not operational, how often will checks of all CA’s be conducted?
+Not to exceed every 4 hours
+40.    In FPCON Bravo or higher, how often will checks of all CA’s be conducted?
+Once per shift when alarms are operational. Checks of SF armory will be conducted every 2 hours when unmanned.
+41.    Who is responsible for all CA keys distributed amongst KUMMSC patrols?
+Key and Lock Custodian will have original copies, and will secure them in lock box in S3. 
+42.    What is an AF Form 2432?
+Key issue Log
+43.    What is an AF Form 440 and where are they located?
+Bomb Threat Aid. Located next to all Government Phones
+44.    What is an AF Form 439 and where are they located?
+Robbery Checklist. Located in 6 of the 7 controlled areas’ six-part folders.
+45.    What is the transmission distance for a suspicious package?
+25 feet
+46.    What alarm will SCS receive when Enrollment Officials log off of the terminal?
+Communications Loss
+47.    What are the proper steps for evacuating Squad Ops CA’s?
+•         Attempt to secure the CA if possible
+•         Log off enrollment terminals
+•         Ensure all visitors are accounted for and evacuated
+48.    What form will all Emergency Responders be logged on?
+  AF Form 1109
+49.    What are Six-Ring Standby procedures?
+•         Must answer phone within 6 rings
+•         Must let Supervisor know when departing quarters
+•         Individuals will NOT leave local area
+•         No consumption of alcohol
+•         Must have gear readily available at all times
+50.    Who is the primary control center for initiating recalls?
+  SSCC
+51.    In the event that SSCC cannot initiate the recall, who will be the alternate?
+  BDOC, if BDOC cannot, FC/FCC will determine agency to initiate
+52.    Who is responsible for making notifications of a recall via ATHOC if necessary?
+  BDOC
+53.    What are the Primary/Alternate Klaxon procedures?
+•         Primary Klaxon is a steady tone. Individuals will respond to the SFS armory.
+•         Alternate Klaxon is a wavering tone. Individuals will respond to base theater, then to CATM
+54.    What are the two types of Reflex Deltas (RD)?
+•         Alpha – USSTRATCOM ABNCP
+•         Bravo – TACAMO
+55.    Where does official notification of RD arrival come from?
+  KCP
+56.    Who has primary responsibility to man any RD aircraft?
+  Each on-duty flight.
+57.    Where is the RD kit located?
+  KCP
+58.    What items are inside a RD kit?
+  Four radios, six batteries, twenty pagers, one charging dock, VA gate remote opener.
+59.    Upon arrival of RD Aircraft, who will meet with the Mission Commander?
+  FC/FCC
+60.    Upon arrival on the parking apron, FC/FCC will brief mission commander on what?
+•         Current FPCON
+•         Localized threat assessment
+•         Duress words
+•         ARC
+•         Any other info pertaining security for AC and surrounding area
+                                                         i.      Additionally, obtain Mission Commander contact info
+                                                       ii.      Verify presence of Positive Control Material, and Airborne Launch Control System
+61.    Who all will receive a copy of RD aircrew CGEAL?
+•         OG copy goes to RD ECP
+•         ESRT
+•         Mission Commander
+•         SSCC
+•         BDOC
+62.    What are the minimum posting requirements for a RD?
+  Four extra SF members.
+63.    Who is responsible for sweeping Alert Crew Billets? (Primary/Alternate)
+  MWD. If not available, Flight line ESRT will conduct sweeps.
+64.    How often will billets be checked once aircrew has accepted security?
+  Every two hours
+65.    What is the reason for an Alert Response Code?
+  To expedite entry for Alert Crew Members
+66.    What are response procedures upon receiving an INCORRECT ERC?
+If an incorrect response is received, the vehicle will be stopped and the individual providing the incorrect response will be removed from the vehicle and separated from the other occupants. They will be afforded the opportunity to indicate duress and their identity will be verified using the authenticated CGEAL and their Common Access Card. If everything is in order and no duress is indicated, allow entry. 
+67.    When does the interior of a RD become a No-Lone Zone?
+Whenever Positive Control Material (PCM), Volatile Keying Assembly (VKA), Portable Storage Unit (PSU) or Code Processor Equipment (CPE) is aboard the aircraft
+68.    True/False: More than one SVA may be present in a NLZ at one time.
+  Falsooooo
+69.    In the event of an Emergency Response to a RD, where will Albuquerque Ambulance Service respond? Will they utilize the ERC?
+  AAS will respond to first available ECP. They will be preannounced and will NOT use the ERC.
+70.    True/False: Un-announced Emergency Responders will be allowed immediate entry within a RA with the use of proper ERC.
+  False, SSCC must be contacted first to verify that Emergency exists.
+71.    What are the open areas listen on your RAB?
+•         19 – 150 SOW NMANG
+•         4 – 58 SOW
+•         6 – 377 ABW Transient Ramp
+•         8 – KUMMSC
+•         9 – HCP 5
+72.    Where is alternate HCP 5 located?
+  Alternate HCP 5 is located at the bend in the taxiway at Pad 5.
+73.    What must be initiated upon arrival of Type II aircraft?
+  Entry Control Procedures
+74.    What must be obtained from Type II aircrew/commander by SF FC/CC upon departure of aircraft?
+  EAL, SAL, and Itinerary, if possible.
+75.    If aircraft arrives Type II and departs Type I, who is responsible for obtaining all pertinent info?
+  FC/FCC
+76.    What is an SAL?
+A Security Acknowledgement Letter is a means of transferring security responsibility to SF. (Only required when crew is not at the AC.)
+77.    How many Light-All units must be present for Presidential Aircraft?
+  Four
+78.    How many Light-All units must be present for presidential fuel supply areas?
+  Two
+79.    What are posting requirements for presidential aircraft?
+  2 CBS, and 2 ESRT personnel. 
+80.    What are photography requirements for a presidential aircraft?
+  Exterior photos must be approved by the CC/Presidential Airlift Group.
+  Interior Photos must be approved by Director of White House Military Office
+81.    When are exercises prohibited during arrival of presidential aircraft?
+  2 hours prior, while on installation, and within two hours of departure.
+82.    Photography Authorization Letters (PAL) will be AUTHENTICATED by who?
+  SF E-5 or above.
+83.    PAL’s will be SIGNED/APPROVED by who?
+  E-7 or above, and Security Manager
+84.    All PAL’s will be submitted through who?
+  Flight line Constable 
+85.    True/False: Owner/User agencies may pre-designate personnel within their units authorized to take photos, or escort photographers.
+  True
+86.    At minimum, how many personnel will be present for a Downed Aircraft? (DART)
+  2 SF personnel, one being an NCO. They will have M4/M9, and a DART bag
+87.    What are the post limits for a DART?
+50 meters from the resource, with the exception of emergencies or as needed to conduct status checks with SSCC.
+88.    What form is used to account for a DART bag?
+  AF Form 1473, Gun Equipment Room Inventory.
+89.    Who notifies SSCC of a DART?
+  KCP
+90.    Who is responsible for notifying KCP of a DART?
+  58 SOW WOC
+91.    Who is dispatched to an on-base DART?
+  BDOC will be contacted by SSCC to send police unit to DART.
+92.    Who will coordinate with SSCC for directions to a DART?
+  58 SOW WOC
+93.    What is an NDA?
+A National Defense Area is established when necessary to secure PL 1, 2, or 3 resources located off the installation on lands not under the jurisdiction or administration of, or in the custody of, Department of Defense (DoD) or a military department of DoD
+94.    Who is the only person authorized to establish an NDA?
+  377 ABW/CC
+95.    What are all posts associated with Convoy/PNAF operations?
+•         Cobra Posting. Cobra units serve as the main convoy movement element during all logistics operations.
+•         Mustang Posting. Mustang units serve as direct security around the LSA for all PNAF and convoy logistics operations to include supervision and entry control.
+•         Mongoose Posting. Mongoose units serve as the Response Force (RF) during LSA operations and the Backup Force (BF) during convoy movements.
+•         Viper Posting. Viper units serve as the Convoy RF, the LSA BF and as the recon element for the convoy.
+•         Pelican Posting. Pelican units serve as route observers, early warning and counter- sniper elements. These units monitor all avenues of approach during PNAF/convoy operations. ADM teams or DM are desired on all Pelican posts, but will be posted, as a minimum, on Pelican 1 and 3. ADM/DM Pelican units should be posted with one (1) M24/or one (1) M107, one (1) M4, associated support equipment, laser range finder, binoculars, NVGs and in some cases an un-marked 4x4 SF vehicle.
+•         Raptor Posting. Raptor units serve as the primary route sweep teams and route observers during LSA operations and convoy movement.
+•         Tango Posting. Tango units serve as TCPs during convoy movements.
+•         Kilo Posting. Kilo units are MWD teams consisting of a certified Explosive Detector Dog (EDD) and handler.
+•         Sunport Liaison Posting. The Sunport unit serves as the liaison for the Albuquerque Sunport International Airport. The Liaison will conduct a joint sweep of the active runways and taxiways with Sunport Airport Operations personnel.
+•         Watchdog Posting. The Watchdog unit serves as the Federal Aviation Administration (FAA) Liaison, providing observation of the runways and taxiways from the FAA Tower.
+•         Skywatch Posting. The Skywatch units serve as route observers and early warning posts.
+96.    What actions will ECP take upon receiving two invalid bio/pin alarms in the booths?
+Assistant EC will go to low side of booths, and verify individuals ID, and that they are secure. They will then be popped through high side of the booths.
+97.    True/False: RTES consoles, and all the M240B machine funs associated with them are tied to AECS.
+  False
+98.    Who is responsible for the employment, direction, and engagement of RTES?
+  SF on-scene commander
+99.    What is the purpose of RTES?
+•         Provide final denial fire before hostile unauthorized access can be gained to controlled/restricted/limited/exclusion areas.
+•         Achieve area denial fire of likely avenues of approach to controlled/restricted/limited/exclusion areas.
+100.In what situations will RTES be enabled?
+•         Covered Wagon
+•         Proper authentication from posted SCS, AS, FC/FCC, or higher authority
+•         Pre-coordinated maintenance or during changeover
+•         SF on-scene commander requests engagement of enemy personnel
+101.True/False: RTES may be enabled during Flight, Squadron, or Wing level exercises.
+  False
+102.What is the primary safety future of RTES?
+  The dual-system authorization/enablement concept.
+   
+103.How many rounds of 7.62 Armor Piercing/Tracer Ammunition is RTES armed with?
+  200 rounds
+104.What function does SCS operator have to stop RTES from operating in the event of a possible duress?
+  E-Stop/O-Stop
+105.Who will act as the System Enablement/Disablement Switch (SEDS) operator?
+  SCS
+106.Who may authorize a pursuit on AND off-base?
+  FC/FCC
+107.Will Civilian Law Enforcement deter SF from conducting Off-Base pursuits?
+No
+108.What is an FPCAM?
+A Force Protection Condition Alerting Message is a down-channel alerting order which may result in an increased state of readiness at levels from one or two affected bases up to an AF-wide increase. 
+109.When will all MUNS personnel be tasked to arm up?
+  During Covered Wagon situations.
+110.Where is alternate SSCC located?
+  BDOC
+111.True/False: A Security Incident must be declared upon discovery of an Unidentified Unmanned     Aerial System landing, attempted landing, hovering, or flying over/near a PL 1, 2, 3 resources.
+  True
+112.Who must be notified upon discovery of a UAS?
+  KCP at minimum, but also BDOC and SSCC
+   
+   
+113.If UAS lands or is observed on ground within KAFB, what actions must be taken?
+  Provide a cordon appropriate to size of UAS and treat as unknown/suspicious package.
+114.If UAS discharges an unusual substance, what actions will be taken?
+  SF will don all gas masks, and move upwind of UAS.
+115.True/False: SF will immediately fire upon UAS when spotted.
+  False, SF will only fire upon UAS if vehicle initiates hostile actions.
+116.If available, who will provide pictures/video of UAS to Incident Commander or higher authorities?
+  FC/FCC
+117.True/False: A SF Member is authorized to use reasonable force to damage, destroy, or disable an unauthorized UAS or UA in the event of an immediate threat to a defended area.
+  True
+118.When pursuing individuals in support of Recap/Recovery Operations off-base, how long will SF continue to follow individuals?
+  Until relieved by FBI, or LFA.
+119.During Covered Wagon situations, who is to be notified of a resupply?
+  The on-scene commander will notify SCS, who will then notify SSPTS Armory for resupply request.
+120.How long before SGT arrival KUMMSC go into facility lockdown?
+  15 minutes
+    
+121.When will SSCC be notified of an SGT arrival?
+  2 hours prior, then once more 30 minutes prior.
+122.What will patrol at V1AA ask SGT commander, prior to allowing entry into KUMMSC?
+They will ask if they certify that all arriving convoy vehicles have been sanitized and kept under continuous observation following the sanitation. They will also ask if they vouch for all personnel in that vehicle.
+123.What will happen if 898 MUNS and 377 WSSS teams are not in place upon arrival of SGT?
+DOE courier/commander will be instructed to remain outside the controlled area until directed to proceed into the area.
+124.Where is the SGT RCU, and RCU components located?
+  SGT RCU is located in SSCC. RCU components are located inside room 148.
+125.Who must be contacted if SGT/RCU cannot be properly connected?
+  SECOM will be contacted to send a technician to correct the issue.
+126.Where are lights located on an SGT trailer?
+  Driver side
+127.What are the lights associated with on the trailer and what color are they?
+  (From left to right) Alarm, Temperature, Fire. They are Amber colored lights
+128.How long will SGT lights illuminate?
+  100 seconds
+129.How often will checks be conducted of trailer if RCU did not hook up, or located outside the Loading Dock?
+  2 hours
+130.Who has unescorted access into SSCC?
+       All on-duty Flight, SF Staff personnel, Senior Squadron Leadership
+      
+131.How often will an ISRT conduct checks of B7/B14 and Muns Armory?
+  Not to exceed every four hours.
+132.Who will control access into MUNS Armory?
+  MUNS Control
+133.True/False: The ISRT does not need to be within the restricted area boundary anytime PL3 or higher aircraft are present, unless properly relieved?
+  False
+134.Who will give prior approval before allowing entry to FL helipads?
+  FAA
+135.How many attempts does an Individual have to enter their pin number?
+  3
+136.What units will be utilized as Flight line Patrols in FPCON Charlie or Higher?
+  Hawk Units
+   
+137.Who is responsible for conducting proficiency exercises?
+AS or FC/FCC
+138.Where will the time, date, and location for PNAF rehearsals be briefed?
+KCP CAT PNAF Briefing.
+139.PNAF Rehearsals must be conducted within how long, before a PNAF Mission?
+48 hours
+140.At minimum, what personnel MUST attend PNAF Rehearsals?
+Convoy Commander, Senior Security Representatives, Area Supervisor, Fire Department, MUNS Supervision, on-scene coordinator, and Transient Alert Representatives.
+141.What do PNAF Rehearsals consist of?
+PNAF contingency operations (i.e., denial, recapture/recovery, emergency entry, Broken Arrow, overt attack).
+142.True/False: Table-tops and Power Point Presentations do NOT meet the intent for a rehearsal.
+Das True Fa Show
+143.What is IDS stand for, and what is it designed to do?
+Intrusion Detection System, and it is designed to increase detection capability by alerting posted Security Forces (SF) to an approach, intrusion, or attempted intrusion.
+144.What is a CCTV?
+Closed Circuit Television. ). A system comprised of cameras and monitors that enables near real-time immediate visual assessment (IVA)
+145.What is AMOS?
+Alarms not acknowledged within 10 seconds from the Entry Control Point (ECP), Security Controller (SC), or Alarm Monitor (AM) workstation will generate an audible steady tone and subsequent alarm at the Security Control Supervisor (SCS) workstation. Alarms not acknowledged within 15 seconds from the SCS workstation will generate an audible steady tone and subsequent alarm at the Base Defense Operations Center (BDOC) workstation.
+146.Where is the Enrollment Operator Station (EOS) located?
+Pass and Registration
+147.What is the name of the metal enclosure that protects FDB’s and J-boxes from dust, dirt, oil, water, corrosion, and other contaminants?
+Hoffman Box
+148.What is a FDB?
+A tamper protected enclosure that groups IDS equipment and sensor inputs into a single or several Intrusion Detection Panel (IDP) and/or Portal Control Panel (PCP) located throughout KUMMSC and the surrounding areas. All FDBs are tamper protected.
+149.What is a Junction Box?
+A tamper protected box located between a sensor and an enclosure, or a FDB and the operator workstation
+150.What are the 3 levels of AECS?
+•         Swipe
+•         Swipe and Pin
+•         Swipe, Pin, Bio
+151.During the event of an Unplanned Power Outage, what will UPS power for a minimum of four hours, should the generator fail to start?
+UPS provides critical power to all sensors, cameras, workstations, FDBs, half of the loading dock lights and radio communication systems. Blast doors will only cycle approximately two and a half times on KUMMSC UPS
+152.What is the field of view and range of a DR301 Curtain PIR?
+Wall-Type Field of view out to 35 feet.
+153.What is the field of view and range of a DR851 Area PIR?
+180’ field of view out to 45 feet.
+154.What two types of Microwave sensors are located in KUMMSC?
+SD80 and SD150
+155.Who is responsible for conducting quarterly sensor testing?
+ESS
+156.What form is used to log two-person processing?
+AF Form 257
+157.What is the purpose of an Emergency Override?
+SCS override procedures bypass system door logic to open special functions or single blast doors/vehicle gates or barriers.
+158.Who will respond to change the password upon initiation of an Emergency Override, and within how long must they respond?
+System Administration will respond within 24 hours, or the next duty day.
+159.What form is used to track all work orders?
+781a
+160.How many interior intrusions can be received before a work order must be opened?
+No more than one false, and 3 nuisance alarms per sensor per month.
+161.How many Exterior Intrusion alarms can be received before a work order must be opened?
+No more than one false, and 3 nuisance alarms per senor per day. (WADS can receive 10 false alarms daily)
+162.What types of Cardholder Access Denied Alarms can be received?
+•         MSC Block/Not in DB
+•         No DCA Access
+•         Invalid PIN
+•         Invalid Issue Code
+•         Invalid Bio
+•         No Bio Template
+163.What is an NDA, and when is it established?
+A National Defense Area is established when necessary to secure PL 1, 2, or 3 resources located off the installation on lands not under the jurisdiction or administration of, or in the custody of, DOD or a military department of the DOD
+164.Who has the authority to establish an NDA?
+377 ABW/CC
+165.True/False: Two certified FC MUST be posted in the event a FCC is not present.
+That my friend, is false.. 
+166.Should a commissioned officer become unavailable to post as FCC, who will assume the role of FC/FCC?
+The FC will assume the role of FCC, and a subordinate NCO will assume the role of FC. S3/S3O will maintain on call rosters of commissioned officers.
+167.What must be briefed during Guardmount?
+•         Read S3OS GM Slides. (If not available, ensure required info is briefed IAW AFI 31-118)
+•         Check all personnel for signs of alcohol use, or any indicators they may be unfit to arm
+•         Conduct Pre-PRP duty briefing 

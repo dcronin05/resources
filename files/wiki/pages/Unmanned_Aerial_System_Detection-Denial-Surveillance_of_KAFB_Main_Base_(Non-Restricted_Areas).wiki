@@ -1,0 +1,5 @@
+[[Category:SFG ALL]]
+<u>SITUATION</u>: An unidentified unmanned aerial system that has been spotted landing, attempted landing, hovering or flying over KAFB and its intent/purpose is unknown.
+<ref name="one">377 Air Base Wing. (2017). [http://{{SERVERNAME}}/resources/files/wiki/regulations/(DCNI)(DOD%20UCNI)%20KAFB%20IDP%202017%20IC%20%233.pdf Integrated defense plan] (KAFB IDP 2017 IC #3, p. 129-132). Albuquerque, NM: Kirtland AFB</ref>
+
+<references />

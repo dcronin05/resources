@@ -1,0 +1,26 @@
+[[Category:SFG ALL]]
+===CONVOY AND PNAF POSTING===
+;Cobra Posting
+:Cobra units serve as the main convoy movement element during all logistics operations. The posting and equipment requirements for all Cobra units can be found in [http://{{SERVERNAME}}/resources/files/wiki/regulations/(DOD%20UCNI)%20KAFB%20IDP%202017%20IC%20%233.pdf ENCLOSURE 1 TO APPENDIX 2 TO ANNEX C TO KAFB IDP 31-101].
+;Mustang Posting
+:Mustang units serve as direct security around the LSA for all PNAF and convoy logistics operations to include supervision and entry control. The posting and equipment requirements for all Mustang units can be found in [http://{{SERVERNAME}}/resources/files/wiki/regulations/(DOD%20UCNI)%20KAFB%20IDP%202017%20IC%20%233.pdf ENCLOSURE 1 TO APPENDIX 2 TO ANNEX C TO KAFB IDP 31-101].
+;Mongoose Posting
+:Mongoose units serve as the Response Force (RF) during LSA operations and the Backup Force (BF) during convoy movements. The posting and equipment requirements for all Mongoose units can be found in [http://{{SERVERNAME}}/resources/files/wiki/regulations/(DOD%20UCNI)%20KAFB%20IDP%202017%20IC%20%233.pdf ENCLOSURE 1 TO APPENDIX 2 TO ANNEX C TO KAFB IDP 31-101].
+;Viper Posting
+:Viper units serve as the Convoy RF, the LSA BF and as the recon element for the convoy. The posting and equipment requirements for all Viper units can be found in [http://{{SERVERNAME}}/resources/files/wiki/regulations/(DOD%20UCNI)%20KAFB%20IDP%202017%20IC%20%233.pdf ENCLOSURE 1 TO APPENDIX 2 TO ANNEX C TO KAFB IDP 31-101].
+;Pelican Posting
+:Pelican units serve as route observers, early warning and counter-sniper elements. These units monitor all aventues of approach during PNAF/convoy operations. ADM teams or DM are desired on all Pelican posts, but will be posted, as a minimum, on Pelican 1 and 3. ADM/DM Pelican untis should be posted with one (1) M24/or one (1) M107, one (1) M4, associated support equipment, laser range finder, binoculars, NVGs and in some cases an un-marked 4x4 SF vehicle. Further posting and equipment requirements for all Pelican units can be found in [http://{{SERVERNAME}}/resources/files/wiki/regulations/(DOD%20UCNI)%20KAFB%20IDP%202017%20IC%20%233.pdf ENCLOSURE 1 TO APPENDIX 2 TO ANNEX C TO KAFB IDP 31-101].
+;Raptor Posting
+:Raptor units serve as the primary route sweep teams and route observers during LSA operations and convoy movement. The posting and equipment requirements for all Raptor units can be found in [http://{{SERVERNAME}}/resources/files/wiki/regulations/(DOD%20UCNI)%20KAFB%20IDP%202017%20IC%20%233.pdf ENCLOSURE 1 TO APPENDIX 2 TO ANNEX C TO KAFB IDP 31-101].
+;Tango Posting
+:Tango units serve as TCPs during convoy movements. The posting and equipment requirements for all Tango units can be found in [http://{{SERVERNAME}}/resources/files/wiki/regulations/(DOD%20UCNI)%20KAFB%20IDP%202017%20IC%20%233.pdf ENCLOSURE 1 TO APPENDIX 2 TO ANNEX C TO KAFB IDP 31-101].
+;Kilo Posting
+:Kilo units are MWD teams consisting of a certified Explosive Detector Dog (EDD) and handler. EDD teams are responsible for LSA sweeps and sweeps on the Primary and Alternate Routes. The posting and equipment requirements for all Kilo units can be found in [http://{{SERVERNAME}}/resources/files/wiki/regulations/(DOD%20UCNI)%20KAFB%20IDP%202017%20IC%20%233.pdf ENCLOSURE 1 TO APPENDIX 2 TO ANNEX C TO KAFB IDP 31-101].
+;Sunport Liaison Posting
+:The Sunport unit serves as the liaison for the Albuquerque Sunport International Airport. The Liaison will conduct a joint sweep of the active runways and taxiways with Sunport Airport Operations personnel. The equipment requirement for this post is a radio.
+;Watchdog Posting
+:The Watchdog unit serves as the Federal Aviation Administration (FAA) Liaison, providing observation of the runways and taxiways from the FAA Tower. The equipment requirement for this post is a radio with headset for discrete monitoring of SF frequencies and binoculars.
+;Skywatch Posting
+:The Skywatch units serve as route observers and early warning posts. The towers can be posted wherever the Convoy Commander deems necessary, however the current locations are within Zia Park and at the Southwest intersection of Hardin Blvd and Wyoming Blvd. These units monitor avenues of approach during PNAF/convoy operations. The posting and equipment requirements for all Skywatch units can be found in [http://{{SERVERNAME}}/resources/files/wiki/regulations/(DOD%20UCNI)%20KAFB%20IDP%202017%20IC%20%233.pdf ENCLOSURE 1 TO APPENDIX 2 TO ANNEX C TO KAFB IDP 31-101]. Additional equipment requirements for this post are NVGs and binoculars.<ref name="one">377 Weapons System Security Squadron. (2016). [http://{{SERVERNAME}}/resources/files/wiki/regulations/(DCNI)%20WSSS%20SOP%20Vol%203%20AFGSC.pdf Prime nuclear airlift force/convoy security] (WSSS SOP 31-101, Volume 3, para 2.1-2.11). Albuquerque, NM: Kirtland AFB</ref>
+
+<references />

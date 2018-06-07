@@ -1,0 +1,990 @@
+{
+  "sftp://dcron.in@dcronin05": {
+    "var": {
+      "www": {
+        "html": {
+          "dcron.in": {
+            "MyFirstJavaProgram.java": {
+              "type": "-",
+              "size": 291,
+              "lmtime": 0,
+              "modified": false
+            },
+            "syncDirectory": {},
+            "test_ftp_remote_visibility.html": {
+              "type": "-",
+              "size": 0,
+              "lmtime": 0,
+              "modified": false
+            },
+            "wiki": {},
+            "index.html": {
+              "type": "-",
+              "size": 2004511,
+              "lmtime": 0,
+              "modified": false
+            },
+            "README.txt": {
+              "type": "-",
+              "size": 100,
+              "lmtime": 0,
+              "modified": false
+            },
+            "(DCNI)  377 SFGI 31-113 FINAL.html": {
+              "type": "-",
+              "size": 585,
+              "lmtime": 0,
+              "modified": false
+            },
+            "(DCNI)  377 SFGI 31-113 FINAL": {},
+            "license.txt": {
+              "type": "-",
+              "size": 1110,
+              "lmtime": 0,
+              "modified": false
+            },
+            "info.php": {
+              "type": "-",
+              "size": 20,
+              "lmtime": 0,
+              "modified": false
+            },
+            "testimage1.jpg": {
+              "type": "-",
+              "size": 67088,
+              "lmtime": 0,
+              "modified": false
+            },
+            "377 SFGI 31-113.wiki": {
+              "type": "-",
+              "size": 36372,
+              "lmtime": 0,
+              "modified": false
+            },
+            "first.pl": {
+              "type": "-",
+              "size": 76,
+              "lmtime": 0,
+              "modified": false
+            },
+            "MyFirstJavaProgram.class": {
+              "type": "-",
+              "size": 470,
+              "lmtime": 0,
+              "modified": false
+            },
+            "test_page.html": {
+              "type": "-",
+              "size": 1387,
+              "lmtime": 0,
+              "modified": false
+            },
+            "Study_Material_(2017).md": {
+              "type": "-",
+              "size": 934,
+              "lmtime": 0,
+              "modified": false
+            },
+            "test_ftp_visibility.html": {
+              "type": "-",
+              "size": 0,
+              "lmtime": 0,
+              "modified": false
+            },
+            "dcron.in": {},
+            "post_briefing": {},
+            "mediawiki": {},
+            "start": {
+              "type": "-",
+              "size": 13,
+              "lmtime": 0,
+              "modified": false
+            },
+            "stop": {
+              "type": "-",
+              "size": 13,
+              "lmtime": 0,
+              "modified": false
+            },
+            "testMarkdown.md": {
+              "type": "-",
+              "size": 0,
+              "lmtime": 0,
+              "modified": false
+            },
+            "files": {},
+            "query": {
+              "type": "-",
+              "size": 13,
+              "lmtime": 0,
+              "modified": false
+            },
+            "resources": {
+              ".Files.swp": {
+                "type": "-",
+                "size": 1024,
+                "lmtime": 1523346947903,
+                "modified": false
+              },
+              "imgs": {
+                "testimage1.jpg": {
+                  "type": "-",
+                  "size": 67088,
+                  "lmtime": 1523345265409,
+                  "modified": false
+                },
+                "testimage2.bmp": {
+                  "type": "-",
+                  "size": 0,
+                  "lmtime": 1523345265562,
+                  "modified": false
+                },
+                "New Bitmap Image.bmp": {
+                  "type": "-",
+                  "size": 0,
+                  "lmtime": 1523345265714,
+                  "modified": false
+                }
+              },
+              "shopping.list": {
+                "type": "-",
+                "size": 27,
+                "lmtime": 0,
+                "modified": false
+              },
+              ".VS.swp": {
+                "type": "-",
+                "size": 1024,
+                "lmtime": 1523346963610,
+                "modified": false
+              },
+              "questions": {
+                "index.html": {
+                  "type": "-",
+                  "size": 38258,
+                  "lmtime": 1525941412634,
+                  "modified": false
+                },
+                "css": {}
+              },
+              ".Chroma.swp": {
+                "type": "-",
+                "size": 1024,
+                "lmtime": 1523346947915,
+                "modified": false
+              },
+              "shopping.csv": {
+                "type": "-",
+                "size": 25,
+                "lmtime": 0,
+                "modified": false
+              },
+              ".Code.swp": {
+                "type": "-",
+                "size": 1024,
+                "lmtime": 1523346963616,
+                "modified": false
+              },
+              ".vscode": {},
+              "learning_site": {
+                "index.html": {
+                  "type": "-",
+                  "size": 398,
+                  "lmtime": 1524831164044,
+                  "modified": false
+                },
+                "style.css": {
+                  "type": "-",
+                  "size": 740,
+                  "lmtime": 1524831236449,
+                  "modified": false
+                }
+              },
+              "files": {
+                "msc": {},
+                "wiki": {
+                  "pages": {
+                    "Welcome.wiki": {
+                      "type": "-",
+                      "size": 65,
+                      "lmtime": 0,
+                      "modified": false
+                    },
+                    "Unmanned_Aerial_System_Detection-Denial-Surveillance_of_KAFB_Main_Base_(Non-Restricted_Areas).wiki": {
+                      "type": "-",
+                      "size": 457,
+                      "lmtime": 0,
+                      "modified": false
+                    },
+                    "Recall_Procedures.wiki": {
+                      "type": "-",
+                      "size": 14078,
+                      "lmtime": 0,
+                      "modified": false
+                    },
+                    "Pursuit_Driving.wiki": {
+                      "type": "-",
+                      "size": 1912,
+                      "lmtime": 0,
+                      "modified": false
+                    },
+                    "SFG_ALL.wiki": {
+                      "type": "-",
+                      "size": 0,
+                      "lmtime": 0,
+                      "modified": false
+                    },
+                    "Downed_Aircraft_Security_and_Response_Procedures.wiki": {
+                      "type": "-",
+                      "size": 7763,
+                      "lmtime": 0,
+                      "modified": false
+                    },
+                    "DD_Tier_Reporting_Instructions.wiki": {
+                      "type": "-",
+                      "size": 15187,
+                      "lmtime": 1526826103151,
+                      "modified": false
+                    },
+                    "Contingency_Operations.wiki": {
+                      "type": "-",
+                      "size": 3370,
+                      "lmtime": 0,
+                      "modified": false
+                    },
+                    "SFG_Recall_Procedures.wiki": {
+                      "type": "-",
+                      "size": 14078,
+                      "lmtime": 0,
+                      "modified": false
+                    },
+                    "Alert_Crew_Billets.wiki": {
+                      "type": "-",
+                      "size": 1724,
+                      "lmtime": 0,
+                      "modified": false
+                    },
+                    "Convoy,_PNAF_Posting_and_BAF_Rally_Points.wiki": {
+                      "type": "-",
+                      "size": 4883,
+                      "lmtime": 0,
+                      "modified": false
+                    },
+                    "REFLEX_DELTA": {
+                      "type": "-",
+                      "size": 1632,
+                      "lmtime": 1523654304294,
+                      "modified": false
+                    },
+                    "Flightline_UAS-Denal-Surveillance_of_Protection Level-1,2_OR_3_Restricted_Areas.wiki": {
+                      "type": "-",
+                      "size": 5619,
+                      "lmtime": 0,
+                      "modified": false
+                    },
+                    "Recapter-Recovery_Operations.wiki": {
+                      "type": "-",
+                      "size": 16209,
+                      "lmtime": 0,
+                      "modified": false
+                    },
+                    "REFLEX_DELTA.wiki": {
+                      "type": "-",
+                      "size": 10478,
+                      "lmtime": 1523661365123,
+                      "modified": true
+                    },
+                    "Unmanned_Aerial_System_Detection-Denial-Surveillance_of_KAFB_Main_Base_(Non-Restricted_Areas)": {
+                      "type": "-",
+                      "size": 271,
+                      "lmtime": 0,
+                      "modified": false
+                    },
+                    "Hostage-Barricaded_Subjects-Active_Shooter-Workplace_Violence.wiki": {
+                      "type": "-",
+                      "size": 1855,
+                      "lmtime": 0,
+                      "modified": false
+                    },
+                    "SF_Communications.wiki": {
+                      "type": "-",
+                      "size": 18342,
+                      "lmtime": 0,
+                      "modified": false
+                    }
+                  },
+                  "regulations": {
+                    "afman31-129.pdf": {
+                      "type": "-",
+                      "size": 622971,
+                      "lmtime": 1523345266857,
+                      "modified": false
+                    },
+                    "(DCNI)  377 SFGI 31-113 FINAL.html": {
+                      "type": "-",
+                      "size": 585,
+                      "lmtime": 1523345267039,
+                      "modified": false
+                    },
+                    "(DoD UNCI) IDP Final Document.pdf": {
+                      "type": "-",
+                      "size": 1684220,
+                      "lmtime": 1523345268730,
+                      "modified": false
+                    },
+                    "(DCNI) WSSS SOP Vol 4 AFGSC.pdf": {
+                      "type": "-",
+                      "size": 1058528,
+                      "lmtime": 1523345269849,
+                      "modified": false
+                    },
+                    "KAFB 91-11 KUMMSC Emergency Response Plan, April 14.pdf": {
+                      "type": "-",
+                      "size": 469909,
+                      "lmtime": 1523345270460,
+                      "modified": false
+                    },
+                    "(DCNI)  377 SFGI 31-113 FINAL": {
+                      "part16.htm": {
+                        "type": "-",
+                        "size": 1519,
+                        "lmtime": 1523345291706,
+                        "modified": false
+                      },
+                      "part1.htm": {
+                        "type": "-",
+                        "size": 1391,
+                        "lmtime": 1523345291914,
+                        "modified": false
+                      },
+                      "document.css": {
+                        "type": "-",
+                        "size": 1093,
+                        "lmtime": 1523345292131,
+                        "modified": false
+                      },
+                      "part32.htm": {
+                        "type": "-",
+                        "size": 2742,
+                        "lmtime": 1523345292336,
+                        "modified": false
+                      },
+                      "part18.htm": {
+                        "type": "-",
+                        "size": 1843,
+                        "lmtime": 1523345292542,
+                        "modified": false
+                      },
+                      "part26.htm": {
+                        "type": "-",
+                        "size": 1431,
+                        "lmtime": 1523345292745,
+                        "modified": false
+                      },
+                      "part27.htm": {
+                        "type": "-",
+                        "size": 2099,
+                        "lmtime": 1523345292951,
+                        "modified": false
+                      },
+                      "part22.htm": {
+                        "type": "-",
+                        "size": 3918,
+                        "lmtime": 1523345293156,
+                        "modified": false
+                      },
+                      "part21.htm": {
+                        "type": "-",
+                        "size": 2766,
+                        "lmtime": 1523345293361,
+                        "modified": false
+                      },
+                      "Image_006.jpg": {
+                        "type": "-",
+                        "size": 37144,
+                        "lmtime": 1523345293573,
+                        "modified": false
+                      },
+                      "part40.htm": {
+                        "type": "-",
+                        "size": 1840,
+                        "lmtime": 1523345293775,
+                        "modified": false
+                      },
+                      "navigation.css": {
+                        "type": "-",
+                        "size": 513,
+                        "lmtime": 1523345293980,
+                        "modified": false
+                      },
+                      "Image_003.png": {
+                        "type": "-",
+                        "size": 124,
+                        "lmtime": 1523345294190,
+                        "modified": false
+                      },
+                      "part23.htm": {
+                        "type": "-",
+                        "size": 4475,
+                        "lmtime": 1523345294402,
+                        "modified": false
+                      },
+                      "part39.htm": {
+                        "type": "-",
+                        "size": 1573,
+                        "lmtime": 1523345294605,
+                        "modified": false
+                      },
+                      "part17.htm": {
+                        "type": "-",
+                        "size": 1547,
+                        "lmtime": 1523345294814,
+                        "modified": false
+                      },
+                      "part3.htm": {
+                        "type": "-",
+                        "size": 1609,
+                        "lmtime": 1523345295019,
+                        "modified": false
+                      },
+                      "Image_005.jpg": {
+                        "type": "-",
+                        "size": 42024,
+                        "lmtime": 1523345295229,
+                        "modified": false
+                      },
+                      "part35.htm": {
+                        "type": "-",
+                        "size": 2629,
+                        "lmtime": 1523345295429,
+                        "modified": false
+                      },
+                      "Image_004.png": {
+                        "type": "-",
+                        "size": 124,
+                        "lmtime": 1523345295631,
+                        "modified": false
+                      },
+                      "part25.htm": {
+                        "type": "-",
+                        "size": 1594,
+                        "lmtime": 1523345295838,
+                        "modified": false
+                      },
+                      "part2.htm": {
+                        "type": "-",
+                        "size": 4855,
+                        "lmtime": 1523345296043,
+                        "modified": false
+                      },
+                      "part6.htm": {
+                        "type": "-",
+                        "size": 1266,
+                        "lmtime": 1523345296246,
+                        "modified": false
+                      },
+                      "part44.htm": {
+                        "type": "-",
+                        "size": 3656,
+                        "lmtime": 1523345296450,
+                        "modified": false
+                      },
+                      "Image_001.png": {
+                        "type": "-",
+                        "size": 33487,
+                        "lmtime": 1523345296657,
+                        "modified": false
+                      },
+                      "part41.htm": {
+                        "type": "-",
+                        "size": 1220,
+                        "lmtime": 1523345296861,
+                        "modified": false
+                      },
+                      "part4.htm": {
+                        "type": "-",
+                        "size": 2017,
+                        "lmtime": 1523345297064,
+                        "modified": false
+                      },
+                      "part33.htm": {
+                        "type": "-",
+                        "size": 1898,
+                        "lmtime": 1523345297268,
+                        "modified": false
+                      },
+                      "part14.htm": {
+                        "type": "-",
+                        "size": 2262,
+                        "lmtime": 1523345297472,
+                        "modified": false
+                      },
+                      "part15.htm": {
+                        "type": "-",
+                        "size": 1743,
+                        "lmtime": 1523345297676,
+                        "modified": false
+                      },
+                      "part28.htm": {
+                        "type": "-",
+                        "size": 4780,
+                        "lmtime": 1523345297889,
+                        "modified": false
+                      },
+                      "part37.htm": {
+                        "type": "-",
+                        "size": 1913,
+                        "lmtime": 1523345298096,
+                        "modified": false
+                      },
+                      "part36.htm": {
+                        "type": "-",
+                        "size": 2107,
+                        "lmtime": 1523345298298,
+                        "modified": false
+                      },
+                      "part10.htm": {
+                        "type": "-",
+                        "size": 3296,
+                        "lmtime": 1523345298503,
+                        "modified": false
+                      },
+                      "part43.htm": {
+                        "type": "-",
+                        "size": 5940,
+                        "lmtime": 1523345298705,
+                        "modified": false
+                      },
+                      "part38.htm": {
+                        "type": "-",
+                        "size": 1757,
+                        "lmtime": 1523345298912,
+                        "modified": false
+                      },
+                      "part24.htm": {
+                        "type": "-",
+                        "size": 2035,
+                        "lmtime": 1523345299122,
+                        "modified": false
+                      },
+                      "part45.htm": {
+                        "type": "-",
+                        "size": 56641,
+                        "lmtime": 1523345299330,
+                        "modified": false
+                      },
+                      "part5.htm": {
+                        "type": "-",
+                        "size": 1992,
+                        "lmtime": 1523345299535,
+                        "modified": false
+                      },
+                      "part20.htm": {
+                        "type": "-",
+                        "size": 2160,
+                        "lmtime": 1523345299741,
+                        "modified": false
+                      },
+                      "content.htm": {
+                        "type": "-",
+                        "size": 158383,
+                        "lmtime": 1523345300072,
+                        "modified": false
+                      },
+                      "part29.htm": {
+                        "type": "-",
+                        "size": 2177,
+                        "lmtime": 1523345300278,
+                        "modified": false
+                      },
+                      "part31.htm": {
+                        "type": "-",
+                        "size": 2187,
+                        "lmtime": 1523345300482,
+                        "modified": false
+                      },
+                      "part42.htm": {
+                        "type": "-",
+                        "size": 1595,
+                        "lmtime": 1523345300687,
+                        "modified": false
+                      },
+                      "Image_002.png": {
+                        "type": "-",
+                        "size": 124,
+                        "lmtime": 1523345300889,
+                        "modified": false
+                      },
+                      "headings.htm": {
+                        "type": "-",
+                        "size": 5673,
+                        "lmtime": 1523345301093,
+                        "modified": false
+                      },
+                      "part34.htm": {
+                        "type": "-",
+                        "size": 1320,
+                        "lmtime": 1523345301298,
+                        "modified": false
+                      },
+                      "part7.htm": {
+                        "type": "-",
+                        "size": 1402,
+                        "lmtime": 1523345301499,
+                        "modified": false
+                      },
+                      "part30.htm": {
+                        "type": "-",
+                        "size": 3642,
+                        "lmtime": 1523345301702,
+                        "modified": false
+                      },
+                      "part13.htm": {
+                        "type": "-",
+                        "size": 6552,
+                        "lmtime": 1523345301907,
+                        "modified": false
+                      },
+                      "part11.htm": {
+                        "type": "-",
+                        "size": 1964,
+                        "lmtime": 1523345302111,
+                        "modified": false
+                      },
+                      "part9.htm": {
+                        "type": "-",
+                        "size": 1770,
+                        "lmtime": 1523345302313,
+                        "modified": false
+                      },
+                      "part12.htm": {
+                        "type": "-",
+                        "size": 4287,
+                        "lmtime": 1523345302516,
+                        "modified": false
+                      },
+                      "part19.htm": {
+                        "type": "-",
+                        "size": 2454,
+                        "lmtime": 1523345302719,
+                        "modified": false
+                      },
+                      "part8.htm": {
+                        "type": "-",
+                        "size": 1476,
+                        "lmtime": 1523345302921,
+                        "modified": false
+                      }
+                    },
+                    "(DOD UCNI) DOD M S-5210.41M, V2 (2016).pdf": {
+                      "type": "-",
+                      "size": 1490880,
+                      "lmtime": 1523345271953,
+                      "modified": false
+                    },
+                    "AFI31-117 AFGM 30 Jun 2016.pdf": {
+                      "type": "-",
+                      "size": 730355,
+                      "lmtime": 1523345272806,
+                      "modified": false
+                    },
+                    "(DOD UCNI) DOD M S-5210.41M, V1 (2016).pdf": {
+                      "type": "-",
+                      "size": 1366758,
+                      "lmtime": 1523345274190,
+                      "modified": false
+                    },
+                    "(DCNI) WSSS SOP Vol 1 AFGSC.pdf": {
+                      "type": "-",
+                      "size": 211633,
+                      "lmtime": 1523345274584,
+                      "modified": false
+                    },
+                    "(DCNI)  377 SFGI 31-113 FINAL.pdf": {
+                      "type": "-",
+                      "size": 230365,
+                      "lmtime": 1523345274973,
+                      "modified": false
+                    },
+                    "AFMAN 31-108V3_AFGSCSUP_AFGSCSUPGM2014-01.pdf": {
+                      "type": "-",
+                      "size": 402529,
+                      "lmtime": 1523345275535,
+                      "modified": false
+                    },
+                    "AFMAN 31-108V2_AFGSCSUP_AFGSCSUPGM2014-01.pdf": {
+                      "type": "-",
+                      "size": 291075,
+                      "lmtime": 1523345275964,
+                      "modified": false
+                    },
+                    "(DCNI) WSSS SOP Vol 2 AFGSC.pdf": {
+                      "type": "-",
+                      "size": 942880,
+                      "lmtime": 1523345276975,
+                      "modified": false
+                    },
+                    "SFS OI_31-118.pdf": {
+                      "type": "-",
+                      "size": 5159721,
+                      "lmtime": 1523345281649,
+                      "modified": false
+                    },
+                    "(DOD UCNI) KAFB IDP 2017 IC #3.pdf": {
+                      "type": "-",
+                      "size": 2211353,
+                      "lmtime": 1523345283790,
+                      "modified": false
+                    },
+                    "AFI 31-101 (Jul 17).pdf": {
+                      "type": "-",
+                      "size": 4667230,
+                      "lmtime": 1523345288189,
+                      "modified": false
+                    },
+                    "(DOD UCNI) DOD M S-5210.41M, V3 (2016).pdf": {
+                      "type": "-",
+                      "size": 1642759,
+                      "lmtime": 1523345289805,
+                      "modified": false
+                    },
+                    "(DCNI) WSSS SOP Vol 3 AFGSC.pdf": {
+                      "type": "-",
+                      "size": 267550,
+                      "lmtime": 1523345290238,
+                      "modified": false
+                    },
+                    "AFMAN 31-108V1_AFGSCSUP_AFGSCSUPGM2014-01.pdf": {
+                      "type": "-",
+                      "size": 172812,
+                      "lmtime": 1523345290567,
+                      "modified": false
+                    },
+                    "(DCNI) 377 SFG Tactical Assault Guide 2018.pdf": {
+                      "type": "-",
+                      "size": 862736,
+                      "lmtime": 1523345291533,
+                      "modified": false
+                    }
+                  }
+                },
+                "New folder": {},
+                "testProgram.py": {
+                  "type": "-",
+                  "size": 67,
+                  "lmtime": 0,
+                  "modified": false
+                },
+                "study_notes": {},
+                "Java": {},
+                "python": {
+                  ".idea": {
+                    "python.iml": {
+                      "type": "-",
+                      "size": 398,
+                      "lmtime": 0,
+                      "modified": false
+                    },
+                    "misc.xml": {
+                      "type": "-",
+                      "size": 196,
+                      "lmtime": 0,
+                      "modified": false
+                    },
+                    "workspace.xml": {
+                      "type": "-",
+                      "size": 15409,
+                      "lmtime": 1524508304092,
+                      "modified": true
+                    },
+                    "modules.xml": {
+                      "type": "-",
+                      "size": 264,
+                      "lmtime": 0,
+                      "modified": false
+                    }
+                  },
+                  ".notestestnote.txt": {
+                    "type": "-",
+                    "size": 148,
+                    "lmtime": 0,
+                    "modified": false
+                  },
+                  "Document.txt": {
+                    "type": "-",
+                    "size": 26823,
+                    "lmtime": 0,
+                    "modified": false
+                  },
+                  "edxCourse.py": {
+                    "type": "-",
+                    "size": 0,
+                    "lmtime": 0,
+                    "modified": false
+                  },
+                  "myCubeRoot.py": {
+                    "type": "-",
+                    "size": 402,
+                    "lmtime": 0,
+                    "modified": false
+                  },
+                  "testProgram.py": {
+                    "type": "-",
+                    "size": 216,
+                    "lmtime": 0,
+                    "modified": false
+                  },
+                  ".test.swp": {
+                    "type": "-",
+                    "size": 1024,
+                    "lmtime": 0,
+                    "modified": false
+                  },
+                  "testnote.txt": {
+                    "type": "-",
+                    "size": 14,
+                    "lmtime": 0,
+                    "modified": false
+                  },
+                  "studyguide.py": {
+                    "type": "-",
+                    "size": 708,
+                    "lmtime": 0,
+                    "modified": false
+                  },
+                  "epr_grader.py": {
+                    "type": "-",
+                    "size": 1999,
+                    "lmtime": 1524508270428,
+                    "modified": false
+                  },
+                  "3.score": {
+                    "type": "-",
+                    "size": 19,
+                    "lmtime": 1524508295562,
+                    "modified": false
+                  },
+                  "acronym_printer.py": {
+                    "type": "-",
+                    "size": 265,
+                    "lmtime": 0,
+                    "modified": false
+                  },
+                  "vowelCounter.py": {
+                    "type": "-",
+                    "size": 190,
+                    "lmtime": 0,
+                    "modified": false
+                  },
+                  "testPerson.score": {
+                    "type": "-",
+                    "size": 90,
+                    "lmtime": 1524508284786,
+                    "modified": false
+                  },
+                  "test": {
+                    "type": "-",
+                    "size": 13,
+                    "lmtime": 0,
+                    "modified": false
+                  },
+                  "newDocument.txt": {
+                    "type": "-",
+                    "size": 26746,
+                    "lmtime": 0,
+                    "modified": false
+                  },
+                  "epr_grader": {},
+                  "noteFile.py": {
+                    "type": "-",
+                    "size": 745,
+                    "lmtime": 0,
+                    "modified": false
+                  },
+                  "final-scores.8990610": {
+                    "type": "-",
+                    "size": 29,
+                    "lmtime": 1524508295574,
+                    "modified": false
+                  },
+                  ".notes": {},
+                  "tests": {}
+                },
+                "post_briefing": {
+                  "index.html": {
+                    "type": "-",
+                    "size": 1956,
+                    "lmtime": 1523345907273,
+                    "modified": false
+                  },
+                  "README.txt": {
+                    "type": "-",
+                    "size": 100,
+                    "lmtime": 1523345303438,
+                    "modified": false
+                  },
+                  "license.txt": {
+                    "type": "-",
+                    "size": 1110,
+                    "lmtime": 1523345303649,
+                    "modified": false
+                  },
+                  "index.markdown": {
+                    "type": "-",
+                    "size": 1467,
+                    "lmtime": 1523345303849,
+                    "modified": false
+                  },
+                  "css": {
+                    "style.css": {
+                      "type": "-",
+                      "size": 188,
+                      "lmtime": 1523346479168,
+                      "modified": false
+                    }
+                  }
+                },
+                "misc": {
+                  "shopping_list.csv": {
+                    "type": "-",
+                    "size": 0,
+                    "lmtime": 1524510929659,
+                    "modified": false
+                  }
+                },
+                "keyboard_shortcuts": {
+                  "type": "-",
+                  "size": 3531,
+                  "lmtime": 1523653893887,
+                  "modified": false
+                },
+                "Flight_Chief_Post_Briefing.md": {
+                  "type": "-",
+                  "size": 103,
+                  "lmtime": 1523345265920,
+                  "modified": false
+                },
+                "c#": {
+                  "testProgram.py": {
+                    "type": "-",
+                    "size": 39,
+                    "lmtime": 1523400259992,
+                    "modified": false
+                  },
+                  "testProgram.cs": {
+                    "type": "-",
+                    "size": 15,
+                    "lmtime": 1523399493590,
+                    "modified": false
+                  }
+                }
+              }
+            },
+            "css": {}
+          }
+        }
+      }
+    }
+  },
+  "$version": 1
+}

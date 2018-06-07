@@ -1,0 +1,15 @@
+{
+    "host": "dcron.in",
+    "username": "dcronin05",
+    "remotePath": "/var/www/html/dcron.in/resources",
+    "protocol": "sftp",
+    "port": 0,
+    "fileNameEncoding": "utf8",
+    "autoUpload": true,
+    "autoDelete": false,
+    "autoDownload": false,
+    "ignore": [
+        ".git",
+        "/.vscode"
+    ]
+}

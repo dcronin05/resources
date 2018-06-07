@@ -1,0 +1,6 @@
+[1]: An AF form 340 is the Sensor Alarm Data
+[2]: the scs will have the ISRT conduct checks of blast doors B-7/14 and the MUNS Armory every 4 hours.
+[3]: The SSCC conducts duress checks as soon as possible after shift change.
+[4]: The AF Form 340 is accomplished for sensor alarm data.
+[5]: The AFTO 781A is used for work orders.
+[6]: Items such as electronic circuit boards or unusual looking tools will be closely scrutinized and treated as possible threat until further investigation.
