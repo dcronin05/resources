@@ -2,7 +2,7 @@
 
 import sys
 
-fileDir = r"c:\Users\dcron\OneDrive - GPantz\Personal\HTML\dcron.in\resources\files\python\.notes\""
+fileDir = r"c:\Users\dcron\OneDrive - GPantz\Personal\HTML\dcron.in\resources\files\python\.notes\\"
 
 try:
     fileName = fileDir + sys.argv[1]
