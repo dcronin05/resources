@@ -1,4 +1,5 @@
-﻿1.       How often will heavy ammunition (M249/M240) be inspected?
+﻿
+1.       How often will heavy ammunition (M249/M240) be inspected?
 Ammunition for heavy weapons will be inspected monthly.
 2.       Which personnel are authorized to conduct weapons inspections?
 A Flight Supervisor (SrA and above who has completed ALS)
