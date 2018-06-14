@@ -10,3 +10,10 @@ def printName(firstName, lastName, reverse):
         print(lastName + ', ' + firstName)
     else:
         print(firstName, lastName)
+
+printName('Eric', 'Grimson', False)
+printName('Eric', 'Grimson', reverse = False)
+printName('Eric', lastName='Grimson', reverse=False)
+printName(lastName='Eric', firstName='Grimson', reverse=False)
+printName('Daniel', 'Cronin', False)
+
