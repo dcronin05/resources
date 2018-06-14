@@ -15,3 +15,5 @@ def g(x):
 
 x = 3
 z = g(x)
+
+print(z)
