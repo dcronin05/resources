@@ -11,3 +11,5 @@ def f( x ):
     return x
 x = 3
 z = f( x )
+print(x)
+print(z)
