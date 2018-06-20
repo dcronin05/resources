@@ -80,7 +80,7 @@ class Recursion:
 
     def printmove(self):
         self.moves += 1
-        if self.moves % 10000000 == 0:
+        if self.moves % 1000000 == 0:
             print(self.moves)
 
     def towers(self, n, fr, to, spare):
@@ -96,5 +96,5 @@ class Recursion:
 
 test = Recursion()
 
-test.towers(34, 'P1', 'P2', 'P3')
+test.towers(26, 'P1', 'P2', 'P3')
 print(test.moves)
