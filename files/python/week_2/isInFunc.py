@@ -3,7 +3,11 @@ def isIn(char, aStr):
     if not aStr or len(aStr) == 1:
         return char == aStr
     else:
-        return aStr[0] == char if char == aStr[0] else isIn(char, aStr[1:])
+
+        if char >= aStr[len(aStr)//2]:
+            return isIn(char, aStr[len(aStr)//2:])
+        else:
+            return isIn(char, aStr[:len(aStr)//2])
 
 
-print(isIn('h', 'bcdefg'))
+print(isIn('w', 'abcdefghijklmopqrstuvwxyz'))
