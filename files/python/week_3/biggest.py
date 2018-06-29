@@ -6,6 +6,7 @@ def biggest(aDict):
     '''
     # Your Code Here
 
+    answer = ''
     result = {}
     for big in aDict:
         if len(aDict[big]) != 0:
@@ -14,7 +15,9 @@ def biggest(aDict):
     for i in result:
         if result[i] < best:
             del result[i]
-    if len(result) > 0:
+    for i in result.keys():
+        answer = answer + i
+    return answer
 
 
-biggest({'b': [1, 7, 5, 4, 3, 18, 10, 0], 'a': []})
+print(biggest({'b': [1, 7, 5, 4, 3, 18, 10, 0], 'a': []}))
