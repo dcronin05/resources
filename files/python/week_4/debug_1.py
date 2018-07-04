@@ -7,19 +7,23 @@ Created on Mon May 16 22:41:46 2016
 
 def isPal(x):
     assert type(x) == list
-    temp = x
-    temp.reverse
+    temp = x[:]
+    print(x)
+    temp.reverse()
+    print(temp)
     if temp == x:
         return True
     else:
         return False
 
 def silly(n):
+    result = []
     for i in range(n):
-        result = []
         elem = input('Enter element: ')
         result.append(elem)
     if isPal(result):
         print('Yes')
     else:
         print('No')
+
+print(silly(4))
