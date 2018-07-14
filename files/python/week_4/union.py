@@ -16,3 +16,4 @@ def union(set1, set2):
 
 
 print(union('','abc'), union('a','abc'), union('ab','abc'), union('d','abc'))
+
